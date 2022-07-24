@@ -3,6 +3,8 @@ WebAPICore
 
 This Ap.net Core Web API application with EF core (Code First Approach)
 Once  you download zip file , extract it 
+Click on the Solution file
+
 Since it is Code First Approach EF used , we need to exceute below command in NPM console
 
 "update-datbase"
