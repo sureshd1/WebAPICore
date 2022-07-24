@@ -2,6 +2,8 @@
 
 
 This Asp.net Core Web API application with EF core (Code First Approach)
+This application maps to LocalDB SqlServer instance Hence you need SqlServer in machine . Or you need to change the connections settings in appsetttings.json file
+
 Once  you download zip file , extract it 
 Click on the Solution file
 
