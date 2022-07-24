@@ -1,7 +1,7 @@
 # WebAPICore
-WebAPICore
 
-This Ap.net Core Web API application with EF core (Code First Approach)
+
+This Asp.net Core Web API application with EF core (Code First Approach)
 Once  you download zip file , extract it 
 Click on the Solution file
 
