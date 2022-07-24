@@ -11,3 +11,5 @@ Since it is Code First Approach EF used , we need to exceute below command in NP
 
 Above command create the Employee DB database in LocalDB and tables in it
 
+Post man collection Link : https://github.com/sureshd1/WebAPICore/blob/main/SampleWebAPI_Core.postman_collection.json
+
